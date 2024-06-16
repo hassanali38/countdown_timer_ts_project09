@@ -1,0 +1,21 @@
+{
+  "name": "countdown-timer-byhassanali",
+  "version": "1.0.0",
+  "description": "A simple and intuitive countdown timer CLI built with TypeScript, using Inquirer for user input and date-fns for time calculations.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.12",
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.2.22"
+  }
+}
