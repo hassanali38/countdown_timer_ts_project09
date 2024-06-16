@@ -12,6 +12,11 @@ A simple and intuitive countdown timer CLI built with TypeScript, using Inquirer
 git clone https://github.com/hassanali38/countdown_timer_ts_project09.git
 ```
 
+## NPM Command
+```bash
+npm i countdown-timer-byhassanali
+```
+
 ## Author
 
 Hassan Ali
