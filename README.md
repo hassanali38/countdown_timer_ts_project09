@@ -9,7 +9,7 @@ A simple and intuitive countdown timer CLI built with TypeScript, using Inquirer
 
 ## Clone the Repository
 ```bash
-git clone https://github.com/yourusername/countdown-timer-cli.git
+git clone https://github.com/hassanali38/countdown_timer_ts_project09.git
 ```
 
 ## Author
